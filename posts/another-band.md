@@ -8,9 +8,7 @@ excerpt: PARAGRAPHTK1
 <blockquote>
   <p>BODYTK1</p>
   <footer>
-  - <a href="">LINKTK</a>
+  <a href="">LINKTK</a>
   </footer>
 </blockquote>
-<p>
-  PARAGRAPHTK  
-</p>
+

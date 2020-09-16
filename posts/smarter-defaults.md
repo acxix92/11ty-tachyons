@@ -11,6 +11,3 @@ excerpt: PARAGRAPHTK2
   - <a href="">TK</a>
   </footer>
 </blockquote>
-<p>
- PARAGRAPHTK  
-</p>
