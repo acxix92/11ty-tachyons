@@ -1,17 +1,16 @@
 ---
 tags: ['post']
-title: An Essay About Design
+title: TITLETK2
 layout: layouts/post
-image_cat: animals
-excerpt: I'm tired of saying I want a medium coffee. Everyone wants a medium coffee.
+excerpt: PARAGRAPHTK2
 ---
 
 <blockquote>
-  <p>I'm tired of saying I want a medium coffee. Everyone wants a medium coffee. I should only have to clarify if I want something else.</p>
+  <p>BODYTK2</p>
   <footer>
-  - <a href="">jxnblk</a>
+  - <a href="">TK</a>
   </footer>
 </blockquote>
 <p>
-  We need smarter defaults. Everywhere.  
+ PARAGRAPHTK  
 </p>

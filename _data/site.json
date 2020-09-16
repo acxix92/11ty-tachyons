@@ -1,18 +1,18 @@
 {
-  "title": "11ty + Tachyons",
-  "url": "https://myurl.com/",
+  "title": "INVERTED ATOM",
+  "url": "https://inverted-atom.netlify.app/",
   "description": "This is an 11ty Starter Template with Tachyons in place for styling.",
   "googleID": "xxxxxxxxxxxxxxx",
-  "repo": "http://github.com/whaleen/11ty-tachyons",
+  "repo": "http://github.com/acxix92/inverted-atom/",
   "feed": {
     "subtitle": "This is an 11ty Starter Template with Tachyons in place for styling.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://inverted-atom.netlify.app/"
   },
   "author": {
-    "name": "Joshua Vaage",
-    "email": "jvaage@protonmail.com",
+    "name": "Alexander Cortez",
+    "email": "xxxx",
     "avatar": "/images/avatar.jpg"
   }
 }
