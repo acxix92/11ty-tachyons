@@ -12,8 +12,8 @@
     "build": "npm run sass && eleventy"
   },
   "keywords": [],
-  "author": "Joshua Vaage",
-  "license": "ISC",
+  "author": "alex",
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-navigation": "^0.1.5",
