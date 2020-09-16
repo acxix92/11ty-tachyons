@@ -1,22 +1,11 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c47c39a6-872d-42d1-9d76-44d46dec26d2/deploy-status)](https://app.netlify.com/sites/jolly-mayer-d0a644/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cfa313d8-660d-4a5f-9052-26504fd54d48/deploy-status)](https://app.netlify.com/sites/inverted-atom-library/deploys)
 
 # 11ty + TACHYONS
 
 ## Quickly begin prototyping using 11ty and Tachyons.
 
-Get started by deploying **11ty+Tachyons** to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/whaleen/11ty-tachyons)
-
-See the [demo](https://11ty-tachyons.netlify.com) of a Netlify deploy.
-
 ### Clone and develop locally
 
-If you have deployed to Netlify, note any change to the repository name you may have made as the following command will need to be changed to match.
-
-```git clone https://github.com/whaleen/11ty-tachyons my-site-name```
-
-```cd my-site-name```
 
 ```npm install```
 
@@ -35,7 +24,7 @@ This template may be an ideal introduction to 11ty for you. It is structured in 
 
 ### Tachyons
 
-A Saas distribution of Tachyons can be found in ```/scss/```. Additional CSS can be written in ```/scss/custom.scss``` for convenience. 
+A Saas distribution of Tachyons can be found in ```/scss/```. Additional CSS can be written in ```/scss/custom.scss``` for convenience.
 
 You may like to [learn about Tachyons](https://tachyons.io).
 
